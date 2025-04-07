@@ -1,7 +1,7 @@
 # Documentação - Aula 03
 
 ## Objetivo
-Este arquivo apresenta os conceitos inciias de Análise textual com Python.
+Essa aula apresenta os conceitos inciais de Análise textual com Python.
 
 ## Técnicas
 - Leitura de textos

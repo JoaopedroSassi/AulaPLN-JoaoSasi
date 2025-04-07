@@ -1,7 +1,7 @@
 # Documentação - Aula 02
 
 ## Objetivo
-Este notebook introduz o programador para sintaxe básica do Python. Conceitos fundamentais como laços, concições e manipulação de strings são apresentados. Ao final, temos uma série de exercícios.
+Essa aula introduz o programador para sintaxe básica do Python. Conceitos fundamentais como laços, concições e manipulação de strings são apresentados. Ao final, temos uma série de exercícios.
 
 ## Técnicas
 - Variáveis
