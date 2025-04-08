@@ -1,16 +1,16 @@
 # Documentação - PJ 03
 
 ## Objetivo
-Esse projeto apresenta a Estatística descritiva aplicada em um corpus, tendo como base a busca de alguns padrões, como frequência de palavras, média de comprimento e etc.
+Esse projeto apresenta a Análise de Relevância de termos, tendo como base diferentes méticas para identificar as palavras-chaves. Nele nós comparamos diferentes métodos de extração de termos que são relevantes
 
 ## Técnicas
-- Pré-processamento textual básico - limpeza, tokenização, remoção de stopwords | Mesmo utilizado nas aulas passadas
-- Extração de certos dados estatísticos, tais como:
-	- Média e mediana dos tokens;
-  - Desvio padrão e variância;
-- Distribuição das frequências de palavras
-- Visualizações estatísticas
+- Pré-processamento textual, tal qual aulas passadas
+- Remoção dos stopwords
+- Vetorização com TF-IDF
+- Visualização de alguns termos relevantes
+- Extração das n-gramas
 
 ## Observações 
-- Temos diversas visualizações de gráficos, que auxíliam no entendimento do conteúdo
-- Podemos expandir para outros grupos de textos
+- Temos diferentes escolhas de métricas para cada caso
+- Comparamos as abordagens para entender como as aplicações se comportam
+- Uso das N-Gramas é bem proveitoso pra futuro conhecimento
